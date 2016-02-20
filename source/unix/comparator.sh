@@ -2,6 +2,8 @@
 echo Iván Novegil´s Comparator
 echo inovegil.site40.net/comparator/unixapp
 echo Alpha version
+echo Licensed under GNU General Public License version 3.0
+echo Source: https://github.com/ivnc/INovegil-Comparatorecho Iván Novegil Cancelas | All rights resserved
 sleep 5
 echo Welcome to comparator.
 echo This little scripts compares two strings and say if they’re identical or not
