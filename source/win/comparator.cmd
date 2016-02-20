@@ -1,7 +1,9 @@
 @echo off
 echo IVÁN NOVEGIL'S COMPARATOR
 echo http://inovegil.site40.net/comparator
-echo Beta 4
+echo Beta 5
+echo Licensed under the GNU General Public License version 3.0
+echo Source code: https://github.com/ivnc/INovegil-Comparator
 echo Iván Novegil - All Rights Resserved.
 pause
 echo Welcome to comparator. This litle script compares two strings and says if they're identical or not.
@@ -83,9 +85,8 @@ set choice=n
 goto quick
 :checkupd
 echo Welcome to the Updates Assistant. This process will check for updates to the comparator, which includes new functionalities and various bugfixes and minor enhacements.
-Echo The program will stay locked until you close the browser.
 pause
-start /max /wait http://inovegil.site40.net/comparator/verifier.php?version=b4
+start /max http://inovegil.site40.net/comparator/verifier.php?version=b5
 echo The default system navigator may open shortly.
 echo Now do you want to close the program or continue to set strings?
 set /p choiceexitupd=Type exit or any other key, then enter.
