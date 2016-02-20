@@ -1,0 +1,1 @@
+You only have to build a form with the get method, with two fields named 'string1' and 'string2'. The type is indifferent, it could be hidden if you can.

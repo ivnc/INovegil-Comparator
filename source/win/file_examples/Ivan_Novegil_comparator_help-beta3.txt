@@ -1,0 +1,28 @@
+#IVÁN NOVEGIL'S COMPARATOR#
+##Quick help file##
+Welcome to Iván Novegil's comparator. This application compares two user-defined strings, returning if ghey are identical or not, allowing save the results of the comparation in a text file (.txt).
+The application is fully customizable; the user can set a name (and route) for the file where the results will be saved, for example.
+The program also includes an help assistant to generate a file (this) which will explain to the user the basic features of the comparator and his screens, including the process to a basic comparation of two strings (1st and 2nd).
+###Welcome screen###
+In this screen, the user will receive the welcome to the Iván Novegil's comparator and will be prompted about generating a help file. The user can type "help" (without quotes) to generate this file, or any other text if he can skip that step. Then press enter.
+###Set Strings screen (setstrings)###
+In the first prompt the user must enter the first string (accepted letters a-z, A-Z; numbers 0-9, and a full list of symbols and special characters, including acents). Press enter. Then the user must enter the second string, as in the first, pressing enter after filling the prompt.
+###Results (setstrings - 2nd part)###
+In this section, the results will be displayed. The program will inform the user "both strings are identical" or "There's a fail comparing".
+###File generation process (genfilechoice, genfile and closenp)###
+After displaying the results, the system will ask the user if he can generate a file. He can type y (it's yes) or n (it's no). Any other key will display a fail. After typed the desired order, press enter.
+The system will prompt you about the route and the name of the file that will be generated. Remember typing the name without the .txt extension, it has already included in the path.
+Then the file will be openned with the windows notepad (mynimized). You can press any key to continue. On the next screen, the user will be asked about closing the notepad, he can type close (and then enter) to close the notepad, or any other text and then enter, to skip that step.
+##Application credits and changelog##
+###Credits##
+This application was designed by Iván Novegil Cancelas: email: ivan.novegil.cancelas@gmail.com; twitter: @inovegil (or @inovegilmen); github: https://github.com/ivnc, GHPage: http://gh.novegil.xyz; website: http://inovegil.site40.net (mail: info@inovegil.site40.net).
+###Changelog###
+####Beta 3####
+* Added an help file and a tool to generate it.
+* Appearance fixes
+##Notes##
+* The text between ( and ) on the screens name is referred to the name of the sections when programming the Iván Novegil's Comparator.
+* In the fields that the user have to enter a keyword or another text to skip, there's not allowed leaving the field blank.
+Iván Novegil Cancelas - All rights resserved,
+for the program and the files it generates.
+Modification or any other alteration by other persons than the original author is not permitted except permission from his (original author).
