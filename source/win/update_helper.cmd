@@ -3,6 +3,7 @@ echo IVÁN NOVEGIL'S COMPARATOR
 echo http://inovegil.site40.net/comparator
 echo Application extension
 echo Update Helper - Version 0.1
+echo Licensed under GNU General Public License version 3.0
 echo Iván Novegil - All rights resserved
 pause
 echo Welcome to Comparator's Update Helper, an application that will help you entering the update verifier from versions that hasn't support for it.
