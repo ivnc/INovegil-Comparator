@@ -2,7 +2,7 @@
 echo IVÁN NOVEGIL'S COMPARATOR
 echo http://inovegil.site40.net/comparator
 echo Application extension
-echo Update Helper - Version 0.1
+echo Update Helper - Version 0.2
 echo Licensed under GNU General Public License version 3.0
 echo Iván Novegil - All rights resserved
 pause
