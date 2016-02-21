@@ -1,7 +1,7 @@
 #! /bin/sh
 echo Iván Novegil´s Comparator
 echo inovegil.site40.net/comparator/unixapp
-echo Alpha version
+echo Alpha 2version
 echo Licensed under GNU General Public License version 3.0
 echo Source: https://github.com/ivnc/INovegil-Comparatorecho Iván Novegil Cancelas | All rights resserved
 sleep 5
