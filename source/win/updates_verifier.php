@@ -12,9 +12,9 @@ echo "Error: origin version isn't defined. Contact to ivan.novegil.cancelas@gmai
 die();
 }
 
-if($_GET['version']<"b4") {
+if($_GET['version']<"b5") {
 
-echo "<p>Your version (" . $_GET['version'] . ") is outdated. Theres a newer version (beta 4).<br><a href=http://inovegil.site40.net/comparator/files/latestexe>Download latest version</a>.<br>
+echo "<p>Your version (" . $_GET['version'] . ") is outdated. Theres a newer version (beta 5).<br><a href=http://inovegil.site40.net/comparator/files/latestexe>Download latest version</a>.<br>
 After downloading dont forget to rename the file to latest.exe [latest(dot)exe], not latestexe.";
 }
 
