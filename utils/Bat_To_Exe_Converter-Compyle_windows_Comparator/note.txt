@@ -1,0 +1,3 @@
+If you're the author of the tool and you want that this toll be deleted of the repo, contact me.
+***
+Run the application corresponding to your architecture and select the source .cmd file and specify the route/filename of the output exe file. Then press "compyle" and the exe file will appears on the destination route/filename specified.
