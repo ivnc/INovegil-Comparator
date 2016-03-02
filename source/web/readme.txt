@@ -1,1 +1,1 @@
-You only have to build a form with the get method, with two fields named 'string1' and 'string2'. The type is indifferent, it could be hidden if you can.
+You only have to build a form with the get method, with two fields named 'string1' and 'string2'. The type is indifferent, it could be hidden if you can. See https://github.com/ivnc/INovegil-Comparator/wiki/Web-Integration for more information about Web Integration of the Comparator
